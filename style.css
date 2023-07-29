@@ -1,0 +1,129 @@
+#img-perfil{
+    width: 150px;
+}
+
+#img-stack{
+    width: 180px;
+    padding-right: 5px;
+    padding-left: 10px;
+}
+
+.tex{
+    text-align: justify;
+}
+
+.texca{
+    text-align: justify;
+
+}
+.fw-normal{
+    text-align: center;
+}
+
+.Testimonio{
+    text-align: center;
+    width: 210px;
+    padding-right: 10px;
+    padding-left: 10px;
+    border-radius:50%;
+    
+}
+
+.contenedor{
+    display: flex;
+    margin-top: 1px;
+}
+
+.bg-primary{
+    background-color: #fad9ed!important;
+}
+
+.nav-link{
+    color:  rgb(53, 192, 235)!important;
+}
+
+.text-bg-primary {
+    background-color:  #fad9ed !important;
+}
+
+.titulo-proyecto{
+    text-shadow: 2px 5px 30px #000000;
+}
+.btn-primay{
+    background-color: #fad9ed !important;
+}
+
+#proyecto-1{
+    background-image: url('img/Captura 1.JPG');
+    background: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+#proyecto-2{
+    background-image: url('img/Captura 2.JPG');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+#proyecto-3{
+    background-image: url('unsplash-photo-1.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+#proyecto-4{
+    background-image: url('unsplash-photo-1.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+#proyecto-5{
+    background-image: url('img-Captura1.JPG');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+#proyecto-6{
+    background-image: url('unsplash-photo-1.jpg');
+}
+
+.carousel-item{
+    height: 400px;
+}
+
+.carousel-indicators [data-bs-target] {
+    background-color: #fd9843;
+    height: 5px;
+}
+
+.carousel-caption{
+    color:black;
+}
+
+ 
+.iconos{
+    font-size: 2rem;
+    color: rgb(199, 28, 28);
+    margin: 12px;
+    width: 50px;
+}
+
+iconos{
+    font-size: 2rem;
+    color: rgb(199, 28, 28);
+    margin: 12px;
+    width: 50px;
+}
+
+h1{
+    font-family: Ink free; 
+    font-size: 60px;
+    color: #fd9843;
+}
+
+h2{
+    font-family: Ink free;
+    font-size: 40px;
+    color: rgb(53, 192, 235);
+}
