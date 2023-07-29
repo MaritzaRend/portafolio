@@ -11,12 +11,12 @@ Incluye una descripción de su motivación, experiencia, proyectos, artículos p
 También contiene una sección de almacenamiento de archivos *(imágenes)* que nos permiten modificar la imagen de perfil del desarrollador y contiene una animación desarrollada con JavaScript.
 
 ## Índice 
-* [ 1. Indroducción]()
-* [ 2. Demostración]()
-* [ 3. ¿Qué construirás?]()
-* [ 4. Objetivos de apendizaje]()
-* [ 5. Requisitos]()
-* [ 6. Contacto]()
+* [ 1. Indroducción](https://github.com/MaritzaRend/portafolio/blob/main/README.md#1-introducci%C3%B3n)
+* [ 2. Demostración](https://github.com/MaritzaRend/portafolio#2-demostraci%C3%B3n)
+* [ 3. ¿Qué construirás?](https://github.com/MaritzaRend/portafolio#3-qu%C3%A9-construir%C3%A1s)
+* [ 4. Objetivos de apendizaje](https://github.com/MaritzaRend/portafolio#4-objetivos-de-apendizaje)
+* [ 5. Requisitos](https://github.com/MaritzaRend/portafolio#5-requisitos)
+* [ 6. Contacto](https://github.com/MaritzaRend/portafolio#6-contacto)
 
 ## 1. Introducción
 
