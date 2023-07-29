@@ -2,14 +2,6 @@
 
 El presente proyecto es creado para el botcamp de **Tecnolochicas PRO Summer Camp**.
 
-Es una página web resposiva *(adaptable a diversos tamaños de pantalla)*.
-
-El propósito del el sitio web es mostrar el portafolio de proyectos de un(a) desarrollador(a) y su experiencia.
-
-Incluye una descripción de su motivación, experiencia, proyectos, artículos publicados y formas de contacto.
-
-También contiene una sección de almacenamiento de archivos *(imágenes)* que nos permiten modificar la imagen de perfil del desarrollador y contiene una animación desarrollada con JavaScript.
-
 ## Índice 
 * [ 1. Indroducción](https://github.com/MaritzaRend/portafolio/blob/main/README.md#1-introducci%C3%B3n)
 * [ 2. Demostración](https://github.com/MaritzaRend/portafolio#2-demostraci%C3%B3n)
@@ -19,8 +11,22 @@ También contiene una sección de almacenamiento de archivos *(imágenes)* que n
 * [ 6. Contacto](https://github.com/MaritzaRend/portafolio#6-contacto)
 
 ## 1. Introducción
+Este portafolio, es una página web resposiva *(adaptable a diversos tamaños de pantalla)*.
+
+El propósito del el sitio web es mostrar el portafolio de proyectos de un(a) desarrollador(a) y su experiencia.
+
+Incluye una descripción de su motivación, experiencia, proyectos, artículos publicados y formas de contacto.
+
+También contiene una sección de almacenamiento de archivos *(imágenes)* que nos permiten modificar la imagen de perfil del desarrollador y contiene una animación desarrollada con JavaScript.
 
 ## 2. Demostración
+Puedes entrar a ver mi demostración en este vínculo: https://timely-pudding-953a0e.netlify.app/  
+
+La idea es inspirarte con esta demostración de proyecto. 
+
+**¡Quizá no te quede idéntico o quizá te quede mucho mejor que este demo🤩**, utiliza tu destreza y aprendizaje para que demuestres que tu futuro es ser un(a) programador(a) web.👩🏻💻👦🏻
+
+
 
 ## 3. ¿Qué construirás?
 
