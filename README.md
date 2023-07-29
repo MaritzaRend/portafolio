@@ -55,5 +55,5 @@ A lo largo de este proyecto, estoy segura de que he adquirido habilidades y cono
 
 ## 6. Contacto
 Desarrollado por: **Tecnolochicas PRO Summer Camp**.
-[Maritza Rendon](https://www.linkedin.com/in/malibb/).
+[Maritza Rendon](https://www.linkedin.com/in/maritza-rendon/).
 
