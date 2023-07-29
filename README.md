@@ -26,7 +26,7 @@ La idea es inspirarte con esta demostración de proyecto.
 
 **¡Quizá no te quede idéntico o quizá te quede mucho mejor que este demo🤩**, utiliza tu destreza y aprendizaje para que demuestres que tu futuro es ser un(a) programador(a) web.👩🏻💻👦🏻
 
-![imagen]("img/Captura 3.jpg")
+![Body] ("img/Captura 3.JPG")
 
 ## 3. ¿Qué construirás?
 
