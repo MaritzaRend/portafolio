@@ -10,7 +10,25 @@ Incluye una descripción de su motivación, experiencia, proyectos, artículos p
 
 También contiene una sección de almacenamiento de archivos *(imágenes)* que nos permiten modificar la imagen de perfil del desarrollador y contiene una animación desarrollada con JavaScript.
 
-## Tecnología 
+## Índice 
+* [ 1. Indroducción]()
+* [ 2. Demostración]()
+* [ 3. ¿Qué construirás?]()
+* [ 4. Objetivos de apendizaje]()
+* [ 5. Requisitos]()
+* [ 6. Contacto]()
+
+## 1. Introducción
+
+## 2. Demostración
+
+## 3. ¿Qué construirás?
+
+## 4. Objetivos de apendizaje
+
+## 5. Requisitos
+
+#### Tecnología 
 
 Esta página fue creada con:
 
@@ -21,10 +39,21 @@ Esta página fue creada con:
 
 Además se incluye *Google Fonts*
 
-## Español
+### Idioma
 El texto de la página web esta escrito en español, sin embargo las clases relacionadas con Bootstrap se incluye en inglés
 
-## Contacto
+
+### General
+Mi experiencia y apendizaje obtenido en las sesiones en base al clon de Google, fue que al crear esta réplica de uno de los sitios web más populares y complejos que existen en el mundo de la tecnología es un logro impresionante para mí.
+
+A lo largo de este proyecto, estoy segura de que he adquirido habilidades y conocimientos en desarrollo web. La combinación de HTML y CSS me ha permitido aprender sobre la estructura y el diseño de páginas web de manera más profunda. Desde la maquetación de la interfaz hasta la disposición de los elementos en una página, con ello, he tenido que enfrentarme a varios desafíos y resolver problemas creativamente.
+
+### UI
+- [ ] Aplicar en todo el sitio HTML semántico de estándar no.5 (HTML5).
+- [ ] Aplicar tipos de selectores en CSS.
+- [ ] Sección `Header`, `Main`, `Footer`
+
+## 6. Contacto
 Desarrollado por: **Tecnolochicas PRO Summer Camp**.
 [Maritza Rendon](https://www.linkedin.com/in/malibb/).
 
