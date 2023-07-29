@@ -20,7 +20,7 @@ Incluye una descripción de su motivación, experiencia, proyectos, artículos p
 También contiene una sección de almacenamiento de archivos *(imágenes)* que nos permiten modificar la imagen de perfil del desarrollador y contiene una animación desarrollada con JavaScript.
 
 ## 2. Demostración
-Puedes entrar a ver mi demostración en este vínculo: https://timely-pudding-953a0e.netlify.app/  s
+Puedes entrar a ver mi demostración en este vínculo: https://timely-pudding-953a0e.netlify.app/ 
 
 La idea es inspirarte con esta demostración de proyecto. 
 
