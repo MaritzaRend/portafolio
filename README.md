@@ -29,8 +29,28 @@ La idea es inspirarte con esta demostración de proyecto.
 ![Body] ("img/Captura 3.JPG")
 
 ## 3. ¿Qué construirás?
+Este proyecto está enfocado en construir la interfaz estática de Google.
+
+Se te pide que sea una sola página que contenga las secciones siguientes:
+  - **1. Header**
+    Sección que involucra la foto del perfil, iconos, logo de Google y las áreas principales del sitio.
+  - **2. Main**
+    Sección del contenedor para los elementos centrales de la página. 
+  - **3. Footer**
+    Sección que incluye hipervínculos al final de la página.
+ - **4. Bootstrap**
+     Es una biblioteca multiplataforma o conjunto de herramientas de código abierto para diseño de sitios y aplicaciones web
+
+****
 
 ## 4. Objetivos de apendizaje
+El objetivo principal de este proyecto es desarrollar una interfaz utilizando HTML y CSS, en toda su aplicación.
+
+Aplicarás:
+
+- Etiquetas estándar HTML5.
+- Estilos con CSS
+- Bootstrap
 
 ## 5. Requisitos
 
@@ -41,7 +61,7 @@ Esta página fue creada con:
 * HTML 5
 * CSS 3
 * Javascript
-* Bootstrap 5
+* Bootstrap 
 
 Además se incluye *Google Fonts*
 
@@ -50,9 +70,7 @@ El texto de la página web esta escrito en español, sin embargo las clases rela
 
 
 ### General
-Mi experiencia y apendizaje obtenido en las sesiones en base al clon de Google, fue que al crear esta réplica de uno de los sitios web más populares y complejos que existen en el mundo de la tecnología es un logro impresionante para mí.
-
-A lo largo de este proyecto, estoy segura de que he adquirido habilidades y conocimientos en desarrollo web. La combinación de HTML y CSS me ha permitido aprender sobre la estructura y el diseño de páginas web de manera más profunda. Desde la maquetación de la interfaz hasta la disposición de los elementos en una página, con ello, he tenido que enfrentarme a varios desafíos y resolver problemas creativamente.
+Mi experiencia y apendizaje obtenido en las sesiones en base al portafolio responsivo con Bootstrap, fue que es una excelente herramienta para desarrollar sitios web que se pueden adaptar fácilmente a diferentes dispositivos y tamaños de pantalla. Crear un portafolio responsivo no solo demuestra mis habilidades de diseño y desarrollo, sino también mi compromiso con la accesibilidad y la usabilidad de diferentes páginas web.
 
 ### UI
 - [ ] Aplicar en todo el sitio HTML semántico de estándar no.5 (HTML5).
@@ -61,5 +79,5 @@ A lo largo de este proyecto, estoy segura de que he adquirido habilidades y cono
 
 ## 6. Contacto
 Desarrollado por: **Tecnolochicas PRO Summer Camp**.
-[Maritza Rendon](https://www.linkedin.com/in/maritza-rendon/).
+[Maritza Rendon](https://www.linkedin.com/in/maritza-rendon/). 🙋‍♀️
 
