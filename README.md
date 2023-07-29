@@ -65,7 +65,7 @@ Esta página fue creada con:
 
 Además se incluye *Google Fonts*
 
-### Idioma
+#### Idioma
 El texto de la página web esta escrito en español, sin embargo las clases relacionadas con Bootstrap se incluye en inglés
 
 
